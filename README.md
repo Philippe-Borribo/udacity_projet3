@@ -4,7 +4,7 @@ Auteur : Philippe BORRIBO
 
 ## Dataset
 
-Nous ferons une analyse exploratoire des données du dataset '201902-fordgobike-tripdata.csv'. Celui-ci contient les informations sur les trajets individuels effectués dans un système de partage de vélos couvrant la grande région de la baie de San Francisco.
+Dans le cadre du projet 3 du nanodegree Udacity Data Analysis, nous ferons une analyse exploratoire des données du dataset '201902-fordgobike-tripdata.csv'. Celui-ci contient les informations sur les trajets individuels effectués dans un système de partage de vélos couvrant la grande région de la baie de San Francisco.
 
 Le dataset est disponible [Ici](https://github.com/Philippe-Borribo/udacity_projet3.git)
 
@@ -34,7 +34,7 @@ En ce qui concerne la visualisation, nous avons mis l'accent les variables : 'us
 'member_gender' et 'member_birth_year' dans le but d'ibserver l'impact de l'âge, du
 genre et du type (abonné ou client) sur la durée du parcours.
 
-Nous avons commencé prémièrement par les corrélations pour voir les l'impact avec les
+Nous avons commencé premièrement par les corrélations pour voir les l'impact avec les
 variables numériques. Ensuite, nous sommes passés aux variables catégorielles parmi
 lesquelles se trouvent nos 3 variables d'intérêts.
 
